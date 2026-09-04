@@ -26,7 +26,7 @@ sistema operativo (`app.getPath('userData')`), nunca se envían a internet.
 ## Instalar y ejecutar en modo desarrollo
 
 ```bash
-cd krypt-app-electron
+cd krypt-app
 npm install
 npm start
 ```
