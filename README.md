@@ -43,7 +43,7 @@ Puedes ajustar el `productName`, `appId` e íconos en la sección `build` de `pa
 ## Estructura del proyecto
 
 ```
-krypt-app-electron/
+krypt-app/
 ├── package.json
 ├── main.js         # proceso principal: ventana + acceso a archivos locales (IPC)
 ├── preload.js       # puente seguro entre main y renderer (contextIsolation activo)
